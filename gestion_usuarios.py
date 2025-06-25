@@ -57,5 +57,4 @@ def main():
         else:
             print("Debe ingresar una opción válida!!")
 
-if __name__ == "__main__":
-    main()
+main()
